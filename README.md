@@ -8,7 +8,7 @@ Before you get started with this project, below are the necessary points to keep
 - first, visit the 'handtrackingbasic.py' to get a generalised idea about how we are going through the project
 - next, move on to the 'HandTrackingModule.py' where the dummy code is present. That code can be used multiple times in different projects for serving various purposes.
 - lastly, check the 'handGestureVolumeControl.py' to control your device volume using hand gestures.
-- keep all your giles under one single folder
+- keep all your files under one single folder
 
 Key points:
 - install all the following necessary libraries for the code to function correctly.
